@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm zhangxiru123 👋
 
-<!--
-**zhangxiru123/zhangxiru123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ UESTC  
+💻 Java Backend Developer in Progress  
+🤖 Exploring AI Applications & Agent Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+
+`Java` `Python` `Kotlin`
+
+**Backend**
+
+`Spring Boot` `Spring MVC` `MyBatis` `WebSocket`
+
+**Database & Middleware**
+
+`MySQL` `Redis`
+
+**Tools**
+
+`Git` `Maven` `Linux` `Docker`
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Tlias Management System
+> An employee management system built with Java and Spring Boot.
+
+`Java` `Spring Boot` `MyBatis` `MySQL` `JWT` `Linux`
+
+### 💬 Java TCP Chat Room
+> A real-time chat application based on TCP sockets and multithreading.
+
+`Java` `Socket` `TCP` `Multithreading`
+
+### 🍱 Cloud Food Delivery
+> A backend-oriented food delivery system covering users, dishes, carts and orders.
+
+`Java` `Spring Boot` `MyBatis` `MySQL` `Redis`
+
+### 📍 Black Horse Dianping
+> A practice project focused on Redis caching, seckill and distributed locks.
+
+`Java` `Spring Boot` `Redis` `MySQL`
+
+### 🤖 AI Collaboration Chat Platform
+> A real-time chat platform integrating AI Agent, RAG and tool calling.
+
+`Java` `WebSocket` `Redis` `Python` `FastAPI` `AI Agent`
+
+---
+
+## 📚 Currently Learning
+
+- Java Backend Development
+- MySQL & Redis
+- High-Concurrency Systems
+- Android Development with Kotlin
+- Python & FastAPI
+- RAG & AI Agents
+
+---
+
+## 🎯 Goal
+
+> Build useful software, understand how it works, and keep improving through real projects.
+
+**Build · Deploy · Debug · Improve**
+
+---
+
+⭐ Thanks for visiting my profile!
