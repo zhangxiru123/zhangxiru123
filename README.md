@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/yamada_banner.svg" width="100%" alt="Yamada Ryo Banner">
+<img src="./yamada_banner.png" width="100%" alt="Yamada Ryo Banner">
 
 # Hi, I'm zhangxiru123 👋
 
